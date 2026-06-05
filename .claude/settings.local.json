@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build *)",
+      "Bash(dotnet add *)",
+      "Bash(npm run *)",
+      "Bash(dotnet ef *)"
+    ],
+    "additionalDirectories": [
+      "/Users/ismailtopucar/Desktop/ArabaKiralama/backend/ArabaKiralama.Entities"
+    ]
+  }
+}

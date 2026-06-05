@@ -1,0 +1,6 @@
+@ArabaKiralama.WebAPI_HostAddress = http://localhost:5183
+
+GET {{ArabaKiralama.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

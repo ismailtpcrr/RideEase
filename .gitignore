@@ -1,0 +1,26 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+
+# Hassas config dosyaları — gerçek değerler burada, git'e gitmemeli
+**/appsettings.Development.json
+**/appsettings.Production.json
+
+# Node
+**/node_modules/
+**/.next/
+**/out/
+
+# Ortam değişkenleri — example dosyası git'e gider, gerçek değerler gitmez
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+
+# MacOS
+.DS_Store
